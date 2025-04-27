@@ -18,10 +18,15 @@
   },
   "homepage": "https://github.com/BlizzardAZ/hexlet-js#readme",
   "dependencies": {
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.31.0",
     "hexo": "^7.3.0",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
+    "@eslint/js": "^9.25.1",
+    "eslint": "^7.32.0",
+    "globals": "^16.0.0",
     "prettier": "^3.5.3"
   }
 }

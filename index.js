@@ -1,4 +1,3 @@
-import showLast from './src./index.js';
+import showLast from './src/index.js'
 
-showLast();
-
+showLast()
