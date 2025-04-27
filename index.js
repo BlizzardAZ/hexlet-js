@@ -1,3 +1,15 @@
-console.log('Hello, Hexlet!')
+console.log("Hello, Hexlet!");
 import _ from "lodash";
-console.log(_.last(['one', 'two']));
+console.log(_.last(["one", "two"]));
+
+const name = "James";
+
+const person = { first: name };
+
+console.log(person);
+
+const sayHelloLinting = (fName) => {
+  console.log(`Hello linting, ${fName}`);
+};
+
+sayHelloLinting("James");

@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/BlizzardAZ/hexlet-js#readme",
   "dependencies": {
+    "hexo": "^7.3.0",
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.3"
   }
 }
